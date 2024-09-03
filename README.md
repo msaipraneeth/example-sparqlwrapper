@@ -48,7 +48,7 @@ poetry install
 
 Make sure the environment variables are set correctly before proceeding.
 
-    Execute the Example:
+Execute the Example:
 ```bash
 poetry run python example-sparqlwrapper/__init__.py
 ```
